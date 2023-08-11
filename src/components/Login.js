@@ -98,7 +98,7 @@ var Login=()=>
 				</form>
 			</div>
 			<h4>For New People</h4>
-			<p><a href="registered.html">Register Here</a> (Or) go back to <a href="index.html">Home<span className="glyphicon glyphicon-menu-right" aria-hidden="true"></span></a></p>
+			<p><a href="registered.html">Register Here</a> (Or) go back to the <a href="index.html">Home<span className="glyphicon glyphicon-menu-right" aria-hidden="true"></span></a></p>
 			
 		</div>
 	</div>
